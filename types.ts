@@ -17,5 +17,8 @@ arr = [28, 12, 44]
 console.log(arr);
 
 type Login = string
-const login:Login='123'
+const login: Login = '123'
+
+
+
 

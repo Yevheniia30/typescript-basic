@@ -12,3 +12,4 @@ sayName('Yevheniia');
 var arr = [1, 2, 3, 4, 5];
 arr = [28, 12, 44];
 console.log(arr);
+var login = '123';
