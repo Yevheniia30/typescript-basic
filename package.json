@@ -1,0 +1,23 @@
+{
+  "name": "typescript-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yevheniia30/typescript-basic.git"
+  },
+  "author": "Yevheniia Suska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yevheniia30/typescript-basic/issues"
+  },
+  "homepage": "https://github.com/Yevheniia30/typescript-basic#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
